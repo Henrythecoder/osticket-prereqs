@@ -49,10 +49,10 @@ This tutorial outlines the steps I used to set up a ticketing system and how you
 
  
 ![ade1](https://github.com/user-attachments/assets/d4fb92ed-bfff-4a5d-8360-129bbbc8e1d6)
-![ade2](https://github.com/user-attachments/assets/4cf99ac6-b259-4c49-95f7-71f864e9f6e8)
+![create virtual machine](https://github.com/user-attachments/assets/7a34dfbf-46cb-443b-820b-e5821d753fbf)
+
 ![ade3](https://github.com/user-attachments/assets/094eb878-0b0f-474c-9902-4293cb6de831)
-![a4](https://github.com/user-attachments/assets/693dddb3-c309-45e4-b363-98ff9a773473)
-![ade5](https://github.com/user-attachments/assets/7e0a10f7-3440-4834-ab3c-5043f76a0e0a)
+
 
 ---
 
